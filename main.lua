@@ -1,6 +1,9 @@
 --[[
+Name: main.lua
 Author: MarsSquirrel
-Purpose: Main Script for this Module.
+Description: This script is the main script that can be run to access core modules.
 --]]
 
-print("Hello World!")
+local module = {}
+
+return module;
