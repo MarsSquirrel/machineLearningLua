@@ -1,4 +1,5 @@
-#Lua Machine Learning :rocket:\n
+#Lua Machine Learning :rocket:
+
 *Written by MarsSquirrel*
 ##
 Hello
